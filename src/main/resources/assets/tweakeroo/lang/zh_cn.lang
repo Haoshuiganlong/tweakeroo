@@ -30,7 +30,7 @@ tweakeroo.config.comment.freecameraplayermovement=若启用，则自由相机模
 tweakeroo.config.comment.gammaoverridevalue=需要使用的伽马（亮度）值，需要启用Gamma Override。
 tweakeroo.config.comment.handrestockcontinuous=若启用，则每游戏刻都会尝试手持物品补充，\n，否则只会在左键或邮件单击之前和之后发生，或者在快速方块放置模式下发生。\n§6通常建议将这个禁用，\n§6除非你有特殊原因确实需要启用。
 tweakeroo.config.comment.handrestockpre=若启用，则物品堆叠用完之前，进行手持物品补充。
-tweakeroo.config.comment.handrestockprethreshold=In the pre-restock mode, when an item stack falls\nbelow this amount, the hand restock will happen.
+tweakeroo.config.comment.handrestockprethreshold=在pre-restock模式下，物品堆掉落或者达到某个数值以下，就会进行手部补货。
 tweakeroo.config.comment.hangableentitybypassinverse=若启用Hangable Entity Targeting Bypass，\n则这个会控制玩家必须是正在潜行或者不在潜行，以能够对准可悬挂实体（物品展示框或画）。\n > true - 潜行 = 忽略/绕过实体\n > false - 潜行 = 对准实体。
 tweakeroo.config.comment.hotbarslotcyclemax=This is the last hotbar slot to use/cycle through\nif the 'Hotbar Slot Cycle' tweak is enabled.\nBasically the cycle will jump back to the first slot\nwhen going over the maximum slot number set here.
 tweakeroo.config.comment.hotbarslotrandomizermax=This is the last hotbar slot to use if the\n'Hotbar Slot Randomizer' tweak is enabled.\nBasically the selected hotbar slot will be randomly picked\nfrom 1 to this maximum slot number after each item use.
